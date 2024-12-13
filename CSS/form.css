@@ -1,0 +1,19 @@
+
+.Folmu {
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(110, 110, 110, 0.832);
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    justify-items: center;
+}
+
+form {
+    padding: 30px;
+}

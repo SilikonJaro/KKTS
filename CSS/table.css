@@ -1,0 +1,15 @@
+
+table {
+    border-spacing: 15px 5px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+    font-family: sans-serif;
+    justify-content: center;
+    margin-inline: auto;
+}
+
+.TableImg {
+    height: 45px;
+    width: auto;
+}

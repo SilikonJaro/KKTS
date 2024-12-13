@@ -1,0 +1,21 @@
+
+.BtnCont {
+    padding-block: 2px;
+}
+
+.IMG {
+    width: auto;
+    height: 265px;
+    filter: blur(2px);
+    cursor: pointer;
+    transition: all 200ms;
+}
+
+.IMG:hover {
+    filter: blur(0px);
+}
+
+.IMG:active {
+    filter: blur(0px);
+    filter: contrast(110);
+}

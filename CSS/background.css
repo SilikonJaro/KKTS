@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../IMGS/1986190.webp");
+}
